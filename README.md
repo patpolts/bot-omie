@@ -1,4 +1,4 @@
-# Bot Notas Omie
+# Bot Notas Omie  
 
 Bot de automação para o processo de **apuração de PIS/COFINS** sobre **notas fiscais eletrônicas de venda em marketplaces**, dentro do sistema **Omie**.  
 Desenvolvido com **BotCity**, o bot acessa o Omie via navegador, identifica NF-es especificas, lê arquivo de xml em busca do valor da nota e processa os cálculos tributários automaticamente. Este bot foi desenvolvido em 2024 e utiliza sintaxe `xpath`, para uso atual com o sistema omie pode ser preciso atualizar caminhos e elementos buscados.
